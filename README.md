@@ -1,6 +1,6 @@
 # Pierre Panther
 
-I am a passionate engineer 
+Im a former chef reeducating my selfe to start my journey into the world of IT.
 
 ---
 
@@ -18,6 +18,4 @@ I am a passionate engineer
 
 ## Contact me :iphone:
 
-- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/kokchungiang/
